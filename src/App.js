@@ -1,7 +1,7 @@
 import './App.css';
-import TopBar from './components/TopBar'
-import Background from './components/Background'
-import StoreListings from './components/StoreListings'
+import TopBar from './src/components/TopBar'
+import Background from './src/components/Background'
+import StoreListings from './src/components/StoreListings'
 
 
 function App() {
